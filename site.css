@@ -1,0 +1,61 @@
+@charset "utf-8";
+/* CSS Document */
+#sayfa{ 
+	width:960px;
+	height:auto;
+	margin:auto;}
+#menu{
+	width:960px;
+	height:50px;
+	background-color:#16A085;
+	text-align:center;
+	line-height:50px;}
+.menuyeri{
+	list-style-type:none;
+	margin-left:230px;}
+li{
+	float:left;}
+a{
+	text-decoration:none;
+	margin-right:30px;
+	color:#FFF;}
+#banner{ 
+	background-image:url(banner.fw.png);
+	text-align:center;
+	padding:2px;}
+hr{ width:auto;
+ height:7px;
+ background-color:#333;
+ margin:0;
+ padding:0;}
+#sol{ width:420px;
+height:auto;
+float:left;
+margin-right:20px;
+margin-left:50px;}
+#sag{ width:400px;
+height:auto;
+float:left;}
+.sil{ clear:both;}
+footer{ width:auto;
+height:150px;
+background-color:#000;
+color:#FFF;
+padding:30px;}
+#ilk { width:250px;
+float:left;}
+#ilk hr{ width:200px;
+height:2px;
+background-color:#999;}
+#ikinci{ width:250px;
+float:left;}
+#ikinci hr{ width:150px;
+height:2px;
+background-color:#999;}
+a:hover{ background-color:#0C9;
+padding:10px;}
+b{ 
+  background-color:#0FC;
+  padding:10px;
+  float:right;}
+
